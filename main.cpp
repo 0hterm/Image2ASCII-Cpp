@@ -6,61 +6,60 @@
 using namespace cimg_library;
 
 char getASCII(CImg<float>::iterator it) {
-   	 if (*it < 10) {
-        	return '@';
-    	} else if (*it < 20) {
-        	return '#';
-    	} else if (*it < 30) {
-        	return '8';
-    	} else if (*it < 40) {
-        	return '&';
-    	} else if (*it < 50) {
-        	return 'B';
-    	} else if (*it < 60) {
-        	return 'W';
-    	} else if (*it < 70) {
- 	    	return 'M';
-	} else if (*it < 80) {
-		return '%';
-	} else if (*it < 90) {
-	        return 'h';
-    	} else if (*it < 100) {
-	        return 'a';
-	} else if (*it < 110) {
-	        return 'k';
-	} else if (*it < 120) {
-	        return 'b';
-	} else if (*it < 130) {
-	        return 'd';
-	} else if (*it < 140) {
-	        return 'p';
-	} else if (*it < 150) {
-	        return 'q';
-	} else if (*it < 160) {
-	        return 'w';
-	} else if (*it < 170) {
-	        return 'm';
-    	} else if (*it < 180) {
-        	return 'Z';
-    	} else if (*it < 190) {
-        	return 'O';
-    	} else if (*it < 200) {
-   	     return '0';
-   	} else if (*it < 210) {
-   	     return 'Y';
-   	} else if (*it < 220) {
-   	     return 'X';
-    	} else if (*it < 230) {
-    	    return 'c';
-    	} else if (*it < 240) {
-    	    return 'v';
-    	} else if (*it < 250) {
-    	    return 'n';
-    	} else {
-    	    return '.';
-    	}
+        if (*it < 10) {
+                return '@';
+        } else if (*it < 20) {
+                return '#';
+        } else if (*it < 30) {
+                return 'M';
+        } else if (*it < 40) {
+                return 'B';
+        } else if (*it < 50) {
+                return '8';
+        } else if (*it < 60) {
+                return '&';
+        } else if (*it < 70) {
+                return 'W';
+        } else if (*it < 80) {
+                return '%';
+        } else if (*it < 90) {
+                return 'h';
+        } else if (*it < 100) {
+                return 'a';
+        } else if (*it < 110) {
+                return 'k';
+        } else if (*it < 120) {
+                return '=';
+        } else if (*it < 130) {
+                return '+';
+        } else if (*it < 140) {
+                return ':';
+        } else if (*it < 150) {
+                return '-';
+        } else if (*it < 160) {
+                return '.';
+        } else if (*it < 170) {
+                return ' ';
+        } else if (*it < 180) {
+                return ' ';
+        } else if (*it < 190) {
+                return ' ';
+        } else if (*it < 200) {
+                return ' ';
+        } else if (*it < 210) {
+                return ' ';
+        } else if (*it < 220) {
+                return ' ';
+        } else if (*it < 230) {
+                return ' ';
+        } else if (*it < 240) {
+                return ' ';
+        } else if (*it < 250) {
+                return ' ';
+        } else {
+                return ' ';
+	}
 }
-
 
 int main() {
 	char uinp[128];
@@ -79,6 +78,14 @@ int main() {
 	std::cout << "Image Dimensions: " << image.width() << " cols & " << image.height() << " rows." << std::endl;
 	std::cout << "The image has: " << image.spectrum() << " colors. (1=greyscale, 3=rgb)" << std::endl;
 	std::cout << "Image Size: " << image.size() << std::endl;
+
+	if ( image.width() > 100 || image.height() > 100 ) {
+		image = image.resize(100,50);
+		std::cout << "Image resized..." << std::endl;
+		std::cout << "Image Dimensions: " << image.width() << " cols & " << image.height() << " rows." << std::endl;
+		std::cout << "The image has: " << image.spectrum() << " colors. (1=greyscale, 3=rgb)" << std::endl;
+		std::cout << "Image Size: " << image.size() << std::endl;	
+	}
 
 	std::cout << "Writing to file..." << std::endl;
 	int rowCounter = 0;
