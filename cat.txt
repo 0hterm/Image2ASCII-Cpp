@@ -1,0 +1,51 @@
+Red:
+%hhakkkk=k=k=k====+=++++++++:::++::+:++:+::++:::::::++:++::++:++::+:+++++++++==++=k===kkk=kkkkkaaahh
+%haaaaakkkkk======++=M+:+++:+:::::+::::::::::-:::::::::::::+:+:+:++++++++++=++=+++===kk=k=k=kakakkah
+haakkkkk=kk=k==++:+++8M+:::+:::::::::::::::::::-::::::-:::::::::::::++:::+:++++++=+==+==kkkkkkkakaaa
+aaakkkak=k====+++++++a8@k:::::---::------------:---:-------::::-::::::+:::::+++++++++====kkk=k=aakaa
+aakkkkk=======+:++++::%8#&+:-:-------------.------------:--------:-::::-:::::::++++==+=+=k==kkkkkkak
+kakkk=k===+=+=++::+:::+W8@M::--------------.-----------.---------------:--:::++::+++==+===k==kkaaaaa
+kakkkkk=+==+=++:+++::::hW&@#%:------.......-........-...------------------::h#Ma:+:+++=+==+a=kkkkaaa
+kkkkk=k====+=+:++::::::a&88##Ba:.........-..-..................--.-----.:-kMMMM=::++++++=+===kk=kaka
+ak====k++==+++++++:::---%&%&###B+-.. ................ ..............---:hBMB#MW::::+++++=++=k=k==kka
+kak=k=+=k==++:+:+::::---:WWWW##MMM&k--... ..  . . .      .  .........:%8BMBM#8k::::+:+:+++======kkak
+a=k=k====+++++:::::::--.:%%&%W@####MM&hh=+-... . .       .      ...+W&&B8BBMBk:-::::::+:++++k=kkkkka
+=kkkk===+:=+:::::+:----.-kh&8&WWB@MBM#MB8MBB&&888&%%aaha++-.. .-:+&8BB8MMM#BWa--:-::+::+++=+====kk=a
+kk======+=++::+:-::---...:=hW&MMM%B#MM##BBBM#MBBM&8W&BMB88#B8&&%&8BBM#M#@M#Wk:.--::::::+++++===kk=ka
+kka=====++++::::::+--.-.. aWhWWM#M8&##M#kMBhB##MWa%#M#&B&M#&a&BMMM8BBM#M#WW%=-.----::::+++:+++===kka
+k==kk==+::++::::::--:-...+hha&%&BB%B8#&B8WhBa8MMM8#hW#&&MB&#8&%8&&M#MM#MWMWk:-..--:::::++:++====k=kk
+kk=====+++:::+---:---...-hh%a%WBB8BM8MBB&88Wa&M@M#=%BM&8MM#W8&M#&88BM#MBB&%a:.-.---::::::++:====kkka
+ka==+=+++++::::::----...+h&%&aaWa&W8&8B8&8MhBW8=%#@h#@h=BBMkh%M@#W88B#B#8h+=--.-----:-+-++++++======
+k=+===:++:::.:-:::--.....%W&B8&+=hk&aa8a#8WaBB%8a%%%.W&B##&MWka&B##aM8M%Bha+-...---:::::+:++++====k=
+=====+++:++:::-.-:---...-&M#Bh%:=ah%%&8Wh%MM%&@:MB##W8==8%#M#kWW%W#%h%hk&a=. ...---::::::+++++===kkk
+=k====+++++---:-:-:--. .-8M##W=a%&WhWW%MB#h%&8BB@a#&B&h==h#8k=B#a:%WhMMWkhk......---:::::++++++====k
+kk===+++::::-:----.-...-:M##M8hWWB8h8WWB&B%BMaM==B&&8@h&8BM@B%@B#hW8+8.&&k-. ....----::-++:++++===k=
+=====+++:++::---:-.-...=8&8BBMB8h&%WW&Bak+WWWWWk+#&@&##+M##@%h@%%B%=%&W%ak-- .. ------::::+++++===kk
+k=+=:+=+--:-:::-:-....-%WBWWW&&8a8M&aa+k&8BhMMBWkWM&Wa@akBB@#W@h&%%.kMa8=&B=.....---:-::+++++++==k==
+===+++:-:=::------.-..+8&h&WB8#8B&W%h&#k&BW&ahB%+=#&%:+BM8B@hB#ha8%h+M8ah&%B=-...-----:::::++===+++=
+==++=::+::-:--:----.-:h&BMW&8&%BM@W%kW=aWh=a&=M8=aMWW=a8&8WB&##aW8Bh8=&h%W%%h+-..-.----::::++==++===
+=k++++=+:+:::---.-..:kh8h&8W8BhM%8+%%8%.k:+W8+WahhWBa@%%h%BW8B&&ak&+&%&k=WBW&+-...------::::++=++===
+==++:+:+::-:----.--.:kh8W%M%Ba%%%&##@BW=W8###M@#BWk%h%a#8aMB8W&@Mh8ah#W%&W88&k. ..------:::+++++====
+=++:+::::::------...-khBWa%8MM&&#@#B:%:=ha@+@####MW88kkM%8%&MMBW&&###M@M&W%&Ma---.-----:::+:+++++===
+==+++:+:::-------.-:hh%&&#M#@###@M&&h%8h+kk#@MMM#M8#h%B8k@W8#Ma8@##B##@&%WW%M%k-...--:--:::++++==+==
+=++=+:::::------..-+a+W&8M8BBBMMBhB#8@+h&aW=:8#M###@MkkaWMk&#WWM#@#@@#8W%8M%#h:---.------::::+=+=+==
+=+:+::-:::-----:-.-k:+a&BMW8%h%88WWWB&&&MBMB#B%k:k8BM&k%%BB&#aW##B%k=%WB#k&BBk+-...----:::::++:++===
+===kk=kkk=+++::::+=+ =h%&W%8hah&&hhaWBBhahWMB8a&88%8#M.a&Wh%W&WMBa88&%k:kB8WWk.-..------::-:::++=+==
+%%W&WW%%WW%hahhka=+. :kahB8=Wkh+ahka%%WW##B%&Wh8+% Wa#&W&hkW&h&8MW88B#W%khW&8=.....-----:--::::++++=
+&8BMW%%%%W&&&WW%Wk+. .=a%W&B&MWhhkhaak=&:%%8%%+-:- -hM8M8&hh%8#&#B###BWha%hh%+...-------:-::+:+=k=aa
+hW&88WWW%%&BMBWa+:...-:kkh8W#@8##8%#8W8BBBh%k%+.    %B#8&8W&88&BBB8BBB8%=:kah:-.--::+:+=kaaa%hWWWWW&
+WWWh%&Wh%W&&BBk:-- ..--:=aka%Wa&&B&%%&hkkk==+:..-.:%%kMM8B88BB8B&M8W8B&hkkkahk=k%kh%WW&W8&&8W%W&8&B8
+BM8W&&&%%%hhh=+:... --:+:+k%k+:k+aa=akk=k==++=:+-. .=&B8MM&BBMM#B&%88W%aaakaah&WMM8BMBB8B&888&#8BB#M
+MM#B8&W&%%Whk:--.  .--.-.:++===+k=a==++ =k=:++=:-..  -=8@8&B88BBW88&#WkakahkaB&88B8B88WWW88&MBMM&WWB
+BBBB88&&&&&akk:.. ...-:.:+=-++k==++==kkk =k::      --.. -W#BBMM&88M&Whaak=k+hBBBB888&&8&888B&8M8WWWW
+B8&&&8&&88Wk:-..   .- ::++-k++==++k  kk+== +. .+k+k:=+...+#M##hhWMM%M=aaaah%aW&BMB&&8B&88B&88BMB8&&8
+88W&8&888&hhkah+.   .-::-.-.k=k-k=kk= =kkkaa=--.  ..:-+:+kW@8a%hWW8ha=ka.=%&BMB&W88&B88&B8B8BMBWBWB&
+&8&88&&88hk+:-:+:- . ..-=a++:=+ k-ka=aa=:kaka-:+=+-a=====kWB%=a%&BBB%kkhhWBBBB8BMW88BBBW8MWBB&BMM8BB
+&8&8BWW&hak----:=+---..--+aaa:=:kkh hakhaa kk-kk=ka+hakh&%8Whaa%Wk%aa%k%BM###a##MMB88MBMBBBB8B88BW&&
+B8&BBB&%ah=:-....--:-:. .=:=kk=a-aaa kh-k=a=hkak=ka888&h%WW%%Whaaahah%-a+#B###MMMMB888BMBB&88M8BB8&8
+B888B#B&h=+-:-:-.:-.:-::-.-:++kaaW=aa=%hhkkaakakkk=ahahahhka=khkhWaah%&&8M@#-###M88&&8BBB8%BBBMBBWMM
+M&8&W&#BW+=:==++=::-+=::---:+=+==kkh=a%hh%ahh%hkaa+kk=kkaakkakhWhha%aW8&B8W##@W@MM%8M&BB&B&B&BM88&B&
+B8&88&&W%k+=====+:+=-:-:-+--:++:++= +h=aahkhW%%%%ahak=kkkk=%W%h%a%%hW&8M&8@####@#MM%#WB&M88BB&BMBMM8
+8&&8W%%h%aaakhk=+kkk+::+-::--:::-::a+h%kkkkkhkaakhhhW%&%&%%%Whhh%W8&88#BM#MMMB#@@MMM&&W8&#888%B&BMBB
+88&WW&8WW%W%&Wk=k=kk-+a+===+:.-:++-kk=khh:=k=kaaahkhh%haahhahhhh&hMBMB8BMMM#MM#####BBBBM8&B8&W&WBMB8
+88&&&88&%a&&8&&Wk%:kkka=a+=:++:=:+.+++aahk+h%kakk=aa=akahahhaah&&&M88#B8BBBB8&8#@@#MW8M&8M#8&BW%BM&&
